@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <factoryConfigs>
+        <factoryConfig>
+            <produceClass>Audi</produceClass>
+            <factoryClass>AudiFactory</factoryClass>
+        </factoryConfig>
+        <factoryConfig>
+            <produceClass>Benz</produceClass>
+            <factoryClass>BenzFactory</factoryClass>
+        </factoryConfig>
+    </factoryConfigs>
+</config>
